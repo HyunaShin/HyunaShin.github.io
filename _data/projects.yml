@@ -24,7 +24,7 @@
   description: | # this will include new lines to allow paragraphs
     - 관리자가 직접 로드맵을 구축해야하는 이슈 → 유저별 자동 학습 로드맵 구축 서비스 제안
     - Node2vec + Link-Prediction
-#    - [Slide](https://drive.google.com/file/d/17Jmd2dIDl4YsrSan54Z3QLhHDC7qGcX0/view?usp=sharing)
+    - [Slide]()
 
 - name: theteamlab.io 2차 개선 프로젝트
   link: Django Project
@@ -32,8 +32,8 @@
   description: | # this will include new lines to allow paragraphs
     - 테스트/배포 자동화, Admin Customizing, 버그 개선
     - 테스트/배포 자동화(Jenkins)
-      - <font size = '1'>발표영상</font>
-#      - <font size = '1'> <a href = 'https://drive.google.com/open?id=18EffG9900ANoA6ED-xOEeUAPdfKP-Akz'>발표영상</a></font>
+      - <font size = '1'><a href = "">발표영상</a></font>
+
     - Django Admin Customizing
       - <font size = '1'>학생이 제출한 과제에 대해 필터링기능, 검색기능 추가</font>
       - <font size = '1'>Diff 기능 추가, 제출한 코드의 변화를 시각화</font>

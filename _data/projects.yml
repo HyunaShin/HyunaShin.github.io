@@ -1,8 +1,51 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+- name: What’s Your Skin Type?
+  link: 2017-2학기 웹프로그래밍
+  github: HyunaShin/django_project
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+     - 피부 특징에 대해 Y/N 버튼으로 이동하며, 마지막 페이지에서 피부 타입을 알려주는 웹사이트
+     - MVC 연결, View 담당
+     - 리뷰 기능 구현(SQLite3)
+     - Bootstrap, Django, SQLite3, Git
+
+- name: 챗챗봇봇
+  link: 2018-1학기 데이터베이스시스템
+  github: HyunaShin/Chatbot_Project
+  description: | # this will include new lines to allow paragraphs
+     - 기간별 영화 관객수 추이, 영화 관람 정보를 제공하는 카카오톡 챗봇
+     - 서버 설치, 서비스 배포 담당(AWS - Ubuntu, Flask)
+     - 기간별 관객 수 추이 정보 테이블 구축(AWS - RDS(Mysql))
+     - 기간별 관객 수 추이 제공 기능 담당(영화 진흥 위원회 API, 카카오톡 API, Matplotlib)
+     - [시연 영상](https://drive.google.com/open?id=1NCFuCOV1sAVWYbvI-chv7pNoY1v0L4WL)
+
+- name: 지식을 넓혀보세요!
+  link: 2018-2학기 Big Data Engineering
+  github: HyunaShin/enhance_your_knowledge_project
+  description: | # this will include new lines to allow paragraphs
+    - 관리자가 직접 로드맵을 구축해야하는 이슈 → 유저별 자동 학습 로드맵 구축 서비스 제안
+    - Node2vec + Link-Prediction
+    - [Slide](https://drive.google.com/file/d/17Jmd2dIDl4YsrSan54Z3QLhHDC7qGcX0/view?usp=sharing)
+
+- name: theteamlab.io 2차 개선 프로젝트
+  link: Django Project
+  github: Teamlab/teamlab_io
+  description: | # this will include new lines to allow paragraphs
+    - 테스트/배포 자동화, Admin Customizing, 버그 개선
+    - 테스트/배포 자동화(Jenkins)
+      - <font size = '1'> <a href = 'https://drive.google.com/open?id=18EffG9900ANoA6ED-xOEeUAPdfKP-Akz'>발표영상</a></font>
+    - Django Admin Customizing
+      - <font size = '1'>학생이 제출한 과제에 대해 필터링기능, 검색기능 추가</font>
+      - <font size = '1'>Diff 기능 추가, 제출한 코드의 변화를 시각화</font>
+      - <font size = '1'>Cheat Detection기능 추가, <a href = 'https://github.com/soachishti/moss.py'>moss</a> 페이지와 연동</font>
+    - 버그 개선
+      - <font size = '1'> News , Notice 페이지 검색 기능 추가</font>
+      - <font size = '1'> Endless Pagination기능 추가</font>
+
+- name: Fashion Marketing AI
+  link: Data Analysis/Engineering Project
+  github: Teamlab/teamlab_io
+  description: | # this will include new lines to allow paragraphs
+    - 데이터셋 마무리, 데이터 분석 작업
+    - Time Series, 브랜드의 카테고리별(Luxury , Casual, Sports) , 브랜드별 분석
+      →  Like, Comment수에 영향을 미치는 요인 분석
+    - pandas, matplotlib, sklearn, pydot

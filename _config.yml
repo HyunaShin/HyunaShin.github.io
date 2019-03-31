@@ -1,54 +1,60 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: HyunaShin/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: 신현아
+title: Python Engineer, Teamlab 학부생 연구원
+email: hyuna1615@gmail.com
+phone: 010-7756-8590
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+github_username:  HyunaShin
+facebook_username:
+linkedin_username: hyuna-shin-465a81171
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image:  ./assets/images/self_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  AWS, Jenkins, Docker 등을 사용해 협업, 시스템 자동화에 기여하기 위해 노력했습니다.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  Serverless, 분산 네트워크 환경에서의 개발 및 테스트/배포 자동화 경험이 있으며 더 편리한 개발 환경을 위해 힘쓰고 싶습니다.
+
+  현재 분산 애플리케이션에 스터디를 진행중입니다.
+
+  ### Skills
+
+  - <b>Confident</b>
+    - <font size = '1'>OS : Linux, Windows</font>
+    - <font size = '1'>Language : Python</font>
+    - <font size = '1'>Database : Mysql</font>
+    - <font size = '1'>Others : Data Analysis, Git</font>
+
+
+  - <b>Knowledgeable</b>
+    - <font size = '1'>OS : Mac </font>
+    - <font size = '1'>Language : Java, Matlab </font>
+    - <font size = '1'>Database : PostgreSQL</font>
+    - <font size = '1'>Others : Docker, Jenkins</font>
+
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - [파티락](http://www.partyrock.co.kr/)(2016.08 - 2018.07) , [MC맨 이벤트](http://www.mcman.co.kr/)(2015.11 - 2016.03) 등에서 [레크레이션 & 돌잔치 MC로서](https://www.youtube.com/watch?v=HgAceSuD9es)한 경험이 있습니다.
+  - 위 경험은 발표역량, 팀 내부의 원활한 의사소통에 밑거름이 되었습니다.
 
 # Footer
 footer_show_references: true

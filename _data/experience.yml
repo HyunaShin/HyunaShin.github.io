@@ -1,9 +1,43 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+- company: Teamlab
+  link: theteamlab.io
+  job_title: 프로그래밍 입문 (Mooc) TA
+  dates: 2019-1학기
+  quote:
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - 온라인 Q&A
+    - TA Office Hour
+    - 외국인반 오프라인 TA
+
+- company: Teamlab
+  link: theteamlab.io
+  job_title: 산업경영공학과 '프로그래밍 언어' TA
+  dates: 2018-2학기
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    - 온라인 Q&A
+    - TA 세션 운영
+
+- company: Teamlab
+  link: theteamlab.io
+  job_title: 학부생 연구원
+  dates: 2018.07 -
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    - Data Engineering/Analysis 담당
+    - [Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks](https://arxiv.org/abs/1903.06464) 제 2저자
+
+# - company: 파티락
+#   link: http://www.partyrock.co.kr/
+#   job_title: 레크레이션 & 돌잔치 MC
+#   dates: 2016.08 - 2018.07
+#   quote:
+#   description: | # this will include new lines to allow paragraphs
+#
+# - company: MC맨 이벤트
+#   link: mcman.co.kr/
+#   job_title: 돌잔치 MC
+#   dates: 2015.11 - 2016.03
+#   quote:
+#   description: | # this will include new lines to allow paragraphs
+#     - [Video](https://www.youtube.com/watch?v=HgAceSuD9es)

@@ -30,23 +30,16 @@
   link: Django Project
   github: Teamlab/teamlab_io
   description: | # this will include new lines to allow paragraphs
-    - 테스트/배포 자동화, Admin Customizing, 버그 개선
-    - 테스트/배포 자동화(Jenkins)
+    - 테스트/배포 자동화, Admin Customizing, Product 서버 구축, 버그개선 담당
+    - Jenkins 서버 설치, 테스트코드 작성,  자동 배포 파이프라인 구축, 슬랙연동 (AWS - Ubuntu, Jenkins, Git) 
       - <font size = '1'><a href = "">발표영상</a></font>
-
-    - Django Admin Customizing
-      - <font size = '1'>학생이 제출한 과제에 대해 필터링기능, 검색기능 추가</font>
-      - <font size = '1'>Diff 기능 추가, 제출한 코드의 변화를 시각화</font>
-      - <font size = '1'>Cheat Detection기능 추가, <a href = 'https://github.com/soachishti/moss.py'>moss</a> 페이지와 연동</font>
-    - 버그 개선
-      - <font size = '1'> News , Notice 페이지 검색 기능 추가</font>
-      - <font size = '1'> Endless Pagination기능 추가</font>
-
+    - Cheat Detection 페이지 추가, 오픈소스([Moss, Stanford Univ](https://github.com/soachishti/moss.py) ) 라이브러리를 사용 한 치팅 확인 페이지 개발
+    - 과제 제출 페이지 필터링, 검색기능, 학생 코드의 Diff 시각화 기능 추가
+    - Nginx 서버 구축, Gunicorn 서비스 등록, 서버 - 앱서비스 연결
+    
 - name: Fashion Marketing AI
   link: Data Analysis/Engineering Project
   github: Teamlab/teamlab_io
   description: | # this will include new lines to allow paragraphs
-    - 데이터셋 마무리, 데이터 분석 작업
-    - Time Series, 브랜드의 카테고리별(Luxury , Casual, Sports) , 브랜드별 분석
-      →  Like, Comment수에 영향을 미치는 요인 분석
-    - pandas, matplotlib, sklearn, pydot
+    - 각 브랜드별 인스타그램의 사진, 게시글 데이터로 Like, Comment수가 높은 요인을 분석하는 Task
+    - Object Detection 결과(json) 파싱, Feature Engineering(메타데이터 설계서  구현), EDA 담당(nltk, Pandas, Sklearn, Matplotlib)

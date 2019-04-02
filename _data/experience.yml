@@ -25,7 +25,7 @@
   quote:
   description: | # this will include new lines to allow paragraphs
     - Data Engineering/Analysis 담당
-    - [Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks](https://arxiv.org/abs/1903.06464) 제 2저자
+    - [Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks](https://arxiv.org/abs/1903.06464) 2저자
 
 # - company: 파티락
 #   link: http://www.partyrock.co.kr/

@@ -39,7 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
     - <font size = '1'>OS : Mac </font>
     - <font size = '1'>Language : Java, Matlab </font>
     - <font size = '1'>Database : PostgreSQL</font>
-    - <font size = '1'>Others : D Data Engineering, Docker, Jenkins , NoSQL </font>
+    - <font size = '1'>Others : Data Engineering, Docker, Jenkins , NoSQL </font>
 
 
 # Projects Section

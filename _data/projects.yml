@@ -33,7 +33,7 @@
   description: | # this will include new lines to allow paragraphs
     - 테스트/배포 자동화, Admin Customizing, Product 서버 구축, 버그개선 담당
     - Jenkins 서버 설치, 테스트코드 작성,  자동 배포 파이프라인 구축, 슬랙연동 (AWS - Ubuntu, Jenkins, Git) 
-      - <font size = '1'><a href = "">발표영상</a></font>
+      - <font size = '5'><a href = "https://drive.google.com/open?id=18EffG9900ANoA6ED-xOEeUAPdfKP-Akz">발표영상</a></font>
     - Cheat Detection 페이지 추가, 오픈소스([Moss, Stanford Univ](https://github.com/soachishti/moss.py) ) 라이브러리를 사용 한 치팅 확인 페이지 개발
     - 과제 제출 페이지 필터링, 검색기능, 학생 코드의 Diff 시각화 기능 추가
     - Nginx 서버 구축, Gunicorn 서비스 등록, 서버 - 앱서비스 연결

@@ -25,7 +25,16 @@ about_content: | # this will include new lines to allow paragraphs
  
   “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
   
-  ### Skills 
+# Projects Section
+projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+education_title: Education #(Use this to override about education section title)
+
+ ### Skills 
   - <font size = '4'><b>Confident</b></font>
     - <font size = '3'>OS : Linux, Windows</font>
     - <font size = '3'>Language : Python</font>
@@ -40,16 +49,6 @@ about_content: | # this will include new lines to allow paragraphs
     - <font size = '3'>Language : Java, Matlab </font>
     - <font size = '3'>Database : PostgreSQL</font>
     - <font size = '3'>Others : Data Engineering(Pandas, NetworkX, PySpark), Docker,  Jenkins, NoSQL,Tensorflow 2.0, Keras </font>
-
-
-# Projects Section
-projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-education_title: Education #(Use this to override about education section title)
 
 # More Section
 more_title: A Little More About Me #(Use this to override about more section title)

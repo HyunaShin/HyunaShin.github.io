@@ -1,7 +1,6 @@
 # Experience template
 - company: Teamlab
-  link: https://arxiv.org/abs/1903.06464
   dates: 2019.03.15
   description: | # this will include new lines to allow paragraphs
-    - <font size = '4'><b>Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks</b></font>
+    - <font size = '4'><b><a href = 'https://arxiv.org/abs/1903.06464'>Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks</a></b></font>
     - Chanwoo Jeong, Sion Jang , Hyuna Shin, Eunjeong Park, Sungchul Choi

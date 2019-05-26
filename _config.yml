@@ -4,7 +4,7 @@ repository: HyunaShin/modern-resume-theme
 
 # Personal info
 name: 신현아
-title: Python Engineer, Teamlab 학부생 연구원
+title: Teamlab, 가천대학교 — 학부생 연구원(2018.07 - 현재)
 email: hyuna1615@gmail.com
 phone: 010-7756-8590
 
@@ -19,12 +19,9 @@ linkedin_username: hyuna-shin-465a81171
 # about_title: About Me (Use this to override about section title)
 about_profile_image:  ./assets/images/self_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  AWS, Jenkins, Docker 등을 사용해 협업, 시스템 자동화에 기여하기 위해 노력했습니다.
-
-  Serverless, 분산 네트워크 환경에서의 개발 및 테스트/배포 자동화 경험이 있으며 더 편리한 개발 환경을 위해 힘쓰고 싶습니다.
-
-  현재 분산 애플리케이션 - 백엔드 스터디를 진행중입니다.
-
+✓   다양한 도메인의 특성에 맞는 Data Engineering을 통한 데이터 분석, 인사이트 도출 경험 다수
+✓   연구 환경 개선을 위한 협업 도구 사용 및 파이프라인 구축 경험
+✓   “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
   ### Skills
 
   - <b>Confident</b>
@@ -32,14 +29,15 @@ about_content: | # this will include new lines to allow paragraphs
     - <font size = '4'>Language : Python</font>
     - <font size = '4'>Database : Mysql</font>
     - <font size = '4'>Frameworks : Django, Flask</font>
-    - <font size = '4'>Others : Data Analysis, Git</font>
+    - <font size = '4'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
 
 
   - <b>Knowledgeable</b>
     - <font size = '4'>OS : Mac </font>
     - <font size = '4'>Language : Java, Matlab </font>
     - <font size = '4'>Database : PostgreSQL</font>
-    - <font size = '4'>Others : Data Engineering, Docker, Jenkins , NoSQL </font>
+    - <font size = '4'>Others : Data Engineering(Pandas, NetworkX,
+   PySpark), Docker,  Jenkins, NoSQL,Tensorflow 2.0, Keras </font>
 
 
 # Projects Section

@@ -19,11 +19,11 @@ linkedin_username: hyuna-shin-465a81171
 # about_title: About Me (Use this to override about section title)
 about_profile_image:  ./assets/images/self_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  - 다양한 도메인의 특성에 맞는 Data Engineering을 통한 데이터 분석, 인사이트 도출 경험 다수
+  다양한 도메인의 특성에 맞는 Data Engineering을 통한 데이터 분석, 인사이트 도출 경험 다수
  
-  - 연구 환경 개선을 위한 협업 도구 사용 및 파이프라인 구축 경험
+  연구 환경 개선을 위한 협업 도구 사용 및 파이프라인 구축 경험
  
-  - “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
+  “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
   
   ### Skills
 

@@ -5,5 +5,5 @@
   dates: 2019-1학기
   quote:
   description: | # this will include new lines to allow paragraphs
-    - <font size = '5'><b>Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks</b></font>
+     <font size = '4'><b>Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks</4></font>
     - Chanwoo Jeong, Sion Jang , Hyuna Shin, Eunjeong Park, Sungchul Choi (2019.03.15)

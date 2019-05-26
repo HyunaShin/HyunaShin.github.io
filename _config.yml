@@ -1,7 +1,6 @@
 # Site
 repository: HyunaShin/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
 # Personal info
 name: 신현아
 title: Teamlab, 가천대학교 — 학부생 연구원(2018.07 - 현재)
@@ -41,8 +40,6 @@ education_title: Education #(Use this to override about education section title)
     - <font size = '3'>Database : Mysql</font>
     - <font size = '3'>Frameworks : Django, Flask</font>
     - <font size = '3'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
-
-
 
   - <font size = '4'><b>Knowledgeable</b></font>
     - <font size = '3'>OS : OSX </font>

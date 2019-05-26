@@ -1,12 +1,12 @@
 # Education Template
-- name: 가천대학교
-  dates: 2017.08 - 2020.02(예정)
-  qualification: 데이터과학 학사과정
+- name: 2017 가천 해커톤 대상
+  dates: 2017.02.23
   quote: >
   description: | # this will include new lines to allow paragraphs
+   - 초롱이 : 시각장애인을 위한 애플리케이션 
 
-- name: 가천대학교
-  dates: 2016.03 - 2020.02(예정)
-  qualification: 산업공학 학사과정
+- name: 제 4회 학생 융합캠프 애석상
+  dates: 2018.01.09
   quote: >
   description: | # this will include new lines to allow paragraphs
+   - Kaggle-Titanic 튜토리얼 세션

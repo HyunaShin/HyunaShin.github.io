@@ -1,6 +1,7 @@
 # Site
 repository: HyunaShin/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
 # Personal info
 name: 신현아
 title: Teamlab, 가천대학교 — 학부생 연구원(2018.07 - 현재)
@@ -18,12 +19,27 @@ linkedin_username: hyuna-shin-465a81171
 # about_title: About Me (Use this to override about section title)
 about_profile_image:  ./assets/images/self_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  다양한 도메인의 특성에 맞는 Data Engineering을 통한 데이터 분석, 인사이트 도출 경험 다수
- 
-  연구 환경 개선을 위한 협업 도구 사용 및 파이프라인 구축 경험
- 
-  “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
-  
+✓   다양한 도메인의 특성에 맞는 Data Engineering을 통한 데이터 분석, 인사이트 도출 경험 다수
+✓   연구 환경 개선을 위한 협업 도구 사용 및 파이프라인 구축 경험
+✓   “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
+  ### Skills
+
+  - <b>Confident</b>
+    - <font size = '4'>OS : Linux, Windows</font>
+    - <font size = '4'>Language : Python</font>
+    - <font size = '4'>Database : Mysql</font>
+    - <font size = '4'>Frameworks : Django, Flask</font>
+    - <font size = '4'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
+
+
+  - <b>Knowledgeable</b>
+    - <font size = '4'>OS : Mac </font>
+    - <font size = '4'>Language : Java, Matlab </font>
+    - <font size = '4'>Database : PostgreSQL</font>
+    - <font size = '4'>Others : Data Engineering(Pandas, NetworkX,
+   PySpark), Docker,  Jenkins, NoSQL,Tensorflow 2.0, Keras </font>
+
+
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
 
@@ -33,26 +49,11 @@ experience_title: Experience #(Use this to override about experience section tit
 # Education Section
 education_title: Education #(Use this to override about education section title)
 
- ### Skills 
-  - <font size = '4'><b>Confident</b></font>
-    - <font size = '3'>OS : Linux, Windows</font>
-    - <font size = '3'>Language : Python</font>
-    - <font size = '3'>Database : Mysql</font>
-    - <font size = '3'>Frameworks : Django, Flask</font>
-    - <font size = '3'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
-
-  - <font size = '4'><b>Knowledgeable</b></font>
-    - <font size = '3'>OS : OSX </font>
-    - <font size = '3'>Language : Java, Matlab </font>
-    - <font size = '3'>Database : PostgreSQL</font>
-    - <font size = '3'>Others : Data Engineering(Pandas, NetworkX, PySpark), Docker,  Jenkins, NoSQL,Tensorflow 2.0, Keras </font>
-
 # More Section
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   - [파티락](http://www.partyrock.co.kr/)(2016.08 - 2018.07) , [MC맨 이벤트](http://www.mcman.co.kr/)(2015.11 - 2016.03) 등에서 [레크레이션 & 돌잔치 MC로서](https://www.youtube.com/watch?v=HgAceSuD9es)한 경험이 있습니다.
   - 위 경험은 발표역량, 팀 내부의 원활한 의사소통에 밑거름이 되었습니다.
-
 # Footer
 footer_show_references: true
 

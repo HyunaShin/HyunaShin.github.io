@@ -26,27 +26,13 @@ about_content: | # this will include new lines to allow paragraphs
   “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
   
   ### Skills
-  
+    
   - <b>Confident</b>
-    - <font size = '10'>OS : Linux, Windows</font>
-    - <font size = '9'>Language : Python</font>
-    - <font size = '8'>Database : Mysql</font>
-    - <font size = '7'>Frameworks : Django, Flask</font>
-    - <font size = '6'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
-     
-    - <font size = '5'>OS : Linux, Windows</font>
-    - <font size = '4'>Language : Python</font>
+    - <font size = '3'>OS : Linux, Windows</font>
+    - <font size = '3'>Language : Python</font>
     - <font size = '3'>Database : Mysql</font>
-    - <font size = '2'>Frameworks : Django, Flask</font>
-    - <font size = '1'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
-    
-    
-  - <b>Confident</b>
-    - <font size = '4'>OS : Linux, Windows</font>
-    - <font size = '4'>Language : Python</font>
-    - <font size = '4'>Database : Mysql</font>
-    - <font size = '4'>Frameworks : Django, Flask</font>
-    - <font size = '4'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
+    - <font size = '3'>Frameworks : Django, Flask</font>
+    - <font size = '3'>Others :  Data Analysis(Pandas, Scikit-Learn), Git</font>
 
 
   - <b>Knowledgeable</b>

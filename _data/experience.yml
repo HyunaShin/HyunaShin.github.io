@@ -4,3 +4,6 @@
   description: | # this will include new lines to allow paragraphs
     - <font size = '4'><b><a href = 'https://arxiv.org/abs/1903.06464'>Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks</a></b></font>
     - Chanwoo Jeong, Sion Jang , Hyuna Shin, Eunjeong Park, Sungchul Choi
+    - Full Text AAN, Full Text PeerRead, DBLP, Refseer 데이터셋 구축
+    -  Master-Slave 노드 구성 - 전처리 파이프라인 구축
+    - AWS EC2(Linux-Ubuntu,  Crontab), Python, Web Crawling(Beautiful Soup)

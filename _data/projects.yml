@@ -6,7 +6,7 @@
     - Object Detection 결과(json) 파싱, Feature Engineering, EDA 담당
     - Python(Nltk, Scikit-Learn, Matplotlib, Pandas)
     
-- name: 연구실 페이지 개선 프로젝트
+- name: 연구실 페이지 개선
   link: <a href = 'http://theteamlab.io'>연구실 소개 및 교내 강의 운영 페이지 개선 (2018.06 - 2019.08) </a>
   github: Teamlab/teamlab_io
   description: | # this will include new lines to allow paragraphs

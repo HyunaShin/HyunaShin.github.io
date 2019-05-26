@@ -25,7 +25,7 @@
     - AWS EC2(Linux-Ubuntu), NginX, Python(NetworkX, Pandas, Scikit-Learn)
 
 - name: 챗챗봇봇
-  link: <a href = 'http://bitly.kr/NGj5MD'>기간별 영화 관객수 추이, 관람 정보를 제공 챗봇 (2017.06 - 2016.07)</a>
+  link: <a href = 'http://bitly.kr/NGj5MD'>기간별 영화 관객수 추이, 관람 정보 제공 챗봇 (2017.06 - 2016.07)</a>
   github: HyunaShin/Chatbot_Project
   description: | # this will include new lines to allow paragraphs
      - 서버 설치, 서비스 배포 담당

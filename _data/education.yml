@@ -2,19 +2,19 @@
 - name: <a href = 'http://ace.gachon.ac.kr/gicc/business/camp'>제 5회 학생 융합캠프</a>
   dates: 2018.07.10
   description: | # this will include new lines to allow paragraphs
-   - 우수상 수상
+   - <b>우수상 수상</b>
    - 챗챗봇봇 : 영화정보 API 및 크롤링을 이용한 챗봇구현
 
 - name: <a href = 'http://ace.gachon.ac.kr/gicc/business/camp'>제 4회 학생 융합캠프</a>
   dates: 2018.01.09
   description: | # this will include new lines to allow paragraphs
-   - 애석상 수상
+   - <b>애석상 수상</b>
    - Kaggle-Titanic 튜토리얼 세션
    
 - name: 2017 가천 해커톤
   dates: 2017.02.23
   description: | # this will include new lines to allow paragraphs
-   - 대상 수상
+   - <b>대상 수상</b>
    - 초롱이 : 시각장애인을 위한 애플리케이션 
 
 

@@ -11,7 +11,7 @@
   github: Teamlab/teamlab_io
   description: | # this will include new lines to allow paragraphs
     - 관리자 페이지 개선 
-       - <font size = '3'>[수강생 과제 치팅 확인, 제출 과제 필터링, 수강자별 코드 수정이력 시각화, 검색기능 구현](http://bitly.kr/w9CXci)</font>
+       - <font size = '3'><a href = 'http://bitly.kr/w9CXci' >수강생 과제 치팅 확인, 제출 과제 필터링, 수강자별 코드 수정이력 시각화, 검색기능 구현</a></font>
     - Jenkins를 이용한 테스트, 배포 자동화 환경 구축
       - <font size = '3'>[Jenkins 서버 설치, 쉘스크립트 및 테스트코드 작성, 서버 연결, 슬랙 API 연동](http://bitly.kr/NGj5MD)</a></font>
     - AWS EC2(Linux-Ubuntu), Docker, Django, Git, Gunicorn, Jenkins, Python, PostgreSQL, NginX

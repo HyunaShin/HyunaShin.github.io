@@ -7,7 +7,7 @@
     - Python(Nltk, Scikit-Learn, Matplotlib, Pandas)
     
 - name: theteamlab.io 2차 개선 프로젝트
-  link: <a href = 'http://theteamlab.io'>연구실 소개 및 교내 강의 운영 페이지 개선<pre>(2018.06 - 2019.08)</pre></a>
+  link: <a href = 'http://theteamlab.io'>연구실 소개 및 교내 강의 운영 페이지 개선 <pre>(2018.06 - 2019.08)</pre></a>
   github: Teamlab/teamlab_io
   description: | # this will include new lines to allow paragraphs
     - 관리자 페이지 개선 
@@ -25,7 +25,7 @@
     - AWS EC2(Linux-Ubuntu), NginX, Python(NetworkX, Pandas, Scikit-Learn)
 
 - name: 챗챗봇봇
-  link: <a href = 'http://bitly.kr/NGj5MD'>기간별 영화 관객수 추이, 관람 정보를 제공 챗봇<pre>(2017.06 - 2016.07)</pre></a>
+  link: <a href = 'http://bitly.kr/NGj5MD'>기간별 영화 관객수 추이, 관람 정보를 제공 챗봇 <pre>(2017.06 - 2016.07)</pre></a>
   github: HyunaShin/Chatbot_Project
   description: | # this will include new lines to allow paragraphs
      - 서버 설치, 서비스 배포 담당

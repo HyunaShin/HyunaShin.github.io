@@ -24,7 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
  
   연구 환경 개선을 위한 협업 도구 사용 및 파이프라인 구축 경험
  
-  “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 내부 스터디(2018.07 - 현재), 바벨봇(2018.04 - 2018.06) 
+  “습득의 완성은 설명” - 프로그래밍 기초(2018.09 - 현재) TA , 랩 스터디 그룹 활동(<a href = http://bitly.kr/ohj67x >2018.07</a> - <a href ='http://bitly.kr/8z9GkR'>현재</a>) 바벨봇(2018.04 - 2018.06) 
   
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
@@ -33,7 +33,7 @@ projects_title: Projects #(Use this to override about projects section title)
 experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-education_title: Education #(Use this to override about education section title)
+education_title:  #(Use this to override about education section title)
 
 # More Section
 more_title: A Little More About Me #(Use this to override about more section title)

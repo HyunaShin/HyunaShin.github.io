@@ -7,7 +7,7 @@
     - Python(Nltk, Scikit-Learn, Matplotlib, Pandas)
     
 - name: theteamlab.io 2차 개선 프로젝트
-  link: 
+  link: [연구실 소개 및 교내 강의 운영 페이지 개선 (2018.06 - 2019.08)](http://theteamlab.io)
   github: Teamlab/teamlab_io
   description: | # this will include new lines to allow paragraphs
     - 관리자 페이지 개선 
